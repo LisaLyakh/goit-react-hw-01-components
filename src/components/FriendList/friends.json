@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://cdn.segodnya.ua/img/gallery/5066/23/547457_main.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://cdn.segodnya.ua/img/gallery/5066/23/547458_main.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://cdn.segodnya.ua/img/gallery/5066/23/547460_main.jpg",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cdn.segodnya.ua/img/gallery/5066/23/547462_main.jpg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://cdn.segodnya.ua/img/gallery/5066/23/547455_main.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
